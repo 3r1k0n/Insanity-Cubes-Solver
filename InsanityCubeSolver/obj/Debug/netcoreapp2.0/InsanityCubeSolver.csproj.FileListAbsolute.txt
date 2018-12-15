@@ -1,0 +1,11 @@
+c:\users\erik\Source\Repos\InsanityCubeSolver\InsanityCubeSolver\bin\Debug\netcoreapp2.0\InsanityCubeSolver.deps.json
+c:\users\erik\Source\Repos\InsanityCubeSolver\InsanityCubeSolver\bin\Debug\netcoreapp2.0\InsanityCubeSolver.runtimeconfig.json
+c:\users\erik\Source\Repos\InsanityCubeSolver\InsanityCubeSolver\bin\Debug\netcoreapp2.0\InsanityCubeSolver.runtimeconfig.dev.json
+c:\users\erik\Source\Repos\InsanityCubeSolver\InsanityCubeSolver\bin\Debug\netcoreapp2.0\InsanityCubeSolver.dll
+c:\users\erik\Source\Repos\InsanityCubeSolver\InsanityCubeSolver\bin\Debug\netcoreapp2.0\InsanityCubeSolver.pdb
+c:\users\erik\Source\Repos\InsanityCubeSolver\InsanityCubeSolver\obj\Debug\netcoreapp2.0\InsanityCubeSolver.csprojResolveAssemblyReference.cache
+c:\users\erik\Source\Repos\InsanityCubeSolver\InsanityCubeSolver\obj\Debug\netcoreapp2.0\InsanityCubeSolver.csproj.CoreCompileInputs.cache
+c:\users\erik\Source\Repos\InsanityCubeSolver\InsanityCubeSolver\obj\Debug\netcoreapp2.0\InsanityCubeSolver.AssemblyInfoInputs.cache
+c:\users\erik\Source\Repos\InsanityCubeSolver\InsanityCubeSolver\obj\Debug\netcoreapp2.0\InsanityCubeSolver.AssemblyInfo.cs
+c:\users\erik\Source\Repos\InsanityCubeSolver\InsanityCubeSolver\obj\Debug\netcoreapp2.0\InsanityCubeSolver.dll
+c:\users\erik\Source\Repos\InsanityCubeSolver\InsanityCubeSolver\obj\Debug\netcoreapp2.0\InsanityCubeSolver.pdb
